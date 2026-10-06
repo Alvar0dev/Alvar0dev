@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! 👋 Soy Álvaro Aguilar</h1>
-  <h3>Estudiante de DAM | Desarrollador Multiplataforma | Apasionado por la IA y el Cloud</h3>
+  <h3>Estudiante de DAM | Trainee Multiplataforma | Autodidacta por la IA y practicando con Cloud</h3>
   <p>En búsqueda activa de prácticas FCT (100% Remoto)</p>
   
   <a href="https://linkedin.com/in/Alvarodev">
@@ -27,6 +27,7 @@ Aporto un perfil único de **reinvención profesional**. Tras más de 15 años d
 ## 🛠️ Tech Stack & Herramientas
 
 ### 💻 Lenguajes & Backend
+
 <p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -34,6 +35,7 @@ Aporto un perfil único de **reinvención profesional**. Tras más de 15 años d
 </p>
 
 ### 🗄️ Bases de Datos & ORM
+
 <p>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -42,9 +44,11 @@ Aporto un perfil único de **reinvención profesional**. Tras más de 15 años d
 </p>
 
 ### ☁️ Infraestructura, IA & Herramientas
+
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="OpenCode" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -55,19 +59,4 @@ Aporto un perfil único de **reinvención profesional**. Tras más de 15 años d
 ## 📜 Certificaciones
 
 - ☁️ **AWS Certified Cloud Practitioner**
-- 🐙 **GitHub Foundations** *(En proceso)*
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvarodev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Estadísticas de Álvaro" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarodev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
-</div>
-
-<br/>
-<p align="center">
-  <i>"El aprendizaje continuo y la adaptabilidad son mi mejor stack tecnológico."</i>
-</p>
+- 🐙 **GitHub Foundations** _(En proceso)_
