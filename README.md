@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy Álvaro Aguilar</h1>
-  <h3>Estudiante de DAM | Trainee Multiplataforma | Autodidacta por la IA y practicando con Cloud</h3>
+  <h1>👋 Hola, soy Álvaro Aguilar</h1>
+  <h3>Estudiante DAM | Trainee Multiplataforma | Autodidacta IA & Cloud</h3>
   <p>En búsqueda activa de prácticas FCT (100% Remoto)</p>
-  
+
   <a href="https://linkedin.com/in/Alvarodev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -15,48 +15,90 @@
 
 ## 👨‍💻 Sobre mí
 
-Aporto un perfil único de **reinvención profesional**. Tras más de 15 años de exitosa experiencia en gestión operativa, atención al cliente y venta consultiva, he pivotado mi carrera hacia el desarrollo de software, lo que me dota de un gran nivel de autogestión, empatía y resolución asertiva de problemas.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con el 85% de módulos superados. Tras **15 años en gestión operativa y venta consultiva**, pivoté a desarrollo de software, aportando:
 
-- 🚀 Actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)** (85% de los módulos superados).
-- 🎯 Busco un entorno colaborativo 100% remoto donde aportar valor, afianzar mis bases técnicas y crecer profesionalmente desde el primer día.
-- 🧠 **Autodidacta y curioso:** Me encanta explorar nuevas tecnologías. Actualmente me familiarizo con metodologías modernas (OpenCode), integración de IA, orquestación de modelos LLM y flujos de onboarding basados en harnessing.
-- 🤝 **Soft Skills destacadas:** Autonomía sin necesidad de microgestión, comunicación efectiva, y capacidad probada para traducir problemas complejos en soluciones claras.
+- **Autonomía** sin necesidad de microgestión
+- **Empatía** y resolución asertiva de problemas  
+- **Transición profesional** demostrada: de operativa a desarrollo técnico
+- **Curiosidad constante** por nuevas tecnologías y metodologías
+
+🎯 **Objetivo**: Entorno colaborativo 100% remoto donde aportar valor, afianzar bases técnicas y crecer profesionalmente desde el primer día.
 
 ---
 
 ## 🛠️ Tech Stack & Herramientas
 
 ### 💻 Lenguajes & Backend
-
 <p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
 </p>
 
 ### 🗄️ Bases de Datos & ORM
-
 <p>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=google-firebase&logoColor=black" alt="Firestore" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
 </p>
 
 ### ☁️ Infraestructura, IA & Herramientas
-
 <p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
 ## 📜 Certificaciones
-
 - ☁️ **AWS Certified Cloud Practitioner**
-- 🐙 **GitHub Foundations** _(En proceso)_
+- 🐙 **GitHub Foundations** _(En proceso)_ — **Practicando con tecnologías como Go + Echo + Firestore en NutriControl API**
+- 🤖 **Integración de IA y orquestación de modelos LLM** — Práctica reciente con harnais SDD
+
+---
+
+## 📦 Proyectos Destacados
+
+### 🟢 NutriControl API (En Desarrollo Activo)
+API REST de gestión de pacientes construida con:
+- **Go 1.26.1** + **Echo v4.16.0** (arquitectura hexagonal/limpia)
+- **Firestore NoSQL** (migración de datos mockeados a base real)
+- **Spec Driven Development (SDD)** — Documentación y specs bajo `specs/001-persistence-layer/`
+- **Metodologías modernas**: OpenCode, orquestación de modelos, harnais de trabajo
+
+**Estado:** Días 1-3 completados (setup → mocks → planificación SDD), Días 4-5 en implementación (repositorio Firestore, handlers, tests).
+
+### 🟢 Otros proyectos en exploración
+- Integración de IA con OpenCode y skills personalizadas
+- Experimentación con arquitecturas hexagonal y hexagonal
+- Prácticas de Go + pruebas unitarias enfocadas en BD
+
+---
+
+## 🚀 ¿Por qué contratarme?
+
+| Característica | Valor |
+|---------------|-------|
+| **Reinvención profesional** | 15 años de operativa → desarrollo con visión de negocio |
+| **Autonomía** | Auto-gestionado, sin necesidad de microgestión |
+| **Resolución de problemas** | Tradujo problemas complejos en soluciones claras durante transición |
+| **Curiosidad por IA** | Práctica activa con modelos LLM, orquestación y harnais |
+| **Enfoque remoto** | 100% compatible con trabajo remoto FCT |
+| **Comunicación efectiva** | Traduce lo técnico a contexto empresarial y viceversa |
+
+---
+
+## 📬 Contacto
+
+- 📧 **Email:** alvaroaguilarcejas@gmail.com
+- 💼 **LinkedIn:** linkedin.com/in/Alvarodev
+- 🐙 **GitHub:** github.com/Alvarodev (proyectos en desarrollo)
+- 🌍 **Disponibilidad:** Prácticas FCT 100% remoto, inicio inminente
+
+---
