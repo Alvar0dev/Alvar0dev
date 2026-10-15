@@ -72,20 +72,28 @@ API REST de gestión de pacientes construida con:
 - **Spec Driven Development (SDD)** — Documentación y specs bajo `specs/001-persistence-layer/`
 - **Metodologías modernas**: OpenCode, orquestación de modelos, harnais de trabajo
 
-**Estado:** Días 1-3 completados (setup → mocks → planificación SDD), Días 4-5 en implementación (repositorio Firestore, handlers, tests).
+**Estado:** Días 1-3 completados (setup → mocks → planificación SDD), Días 4-5 en implementación (repositorio Firestore, handlers, tests)
+
+### 🟢 Nutricional-Coach (Repositorio Destacado)
+Proyecto en GitHub que muestra mi capacidad para crear aplicaciones completas con:
+- **Go + Echo** para la API backend
+- **Firestore** como base de datos
+- **Diseño limpio y modular** con separación de capas
+- **Documentación completa** con AGENTS.md, constitución y especificaciones
+
+**Estado:** Proyecto completo y listo para revisión, con documentación completa y buenas prácticas de desarrollo.
 
 ### 🟢 Otros proyectos en exploración
 - Integración de IA con OpenCode y skills personalizadas
 - Experimentación con arquitecturas hexagonal y hexagonal
 - Prácticas de Go + pruebas unitarias enfocadas en BD
-
 ---
 
 ## 🚀 ¿Por qué contratarme?
 
 | Característica | Valor |
 |---------------|-------|
-| **Reinvención profesional** | 15 años de operativa → desarrollo con visión de negocio |
+| **Reinvención profesional** | 20 años de operativa → desarrollo con visión de negocio |
 | **Autonomía** | Auto-gestionado, sin necesidad de microgestión |
 | **Resolución de problemas** | Tradujo problemas complejos en soluciones claras durante transición |
 | **Curiosidad por IA** | Práctica activa con modelos LLM, orquestación y harnais |
