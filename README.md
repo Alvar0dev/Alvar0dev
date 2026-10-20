@@ -81,7 +81,7 @@ Proyecto en GitHub que muestra mi capacidad para crear aplicaciones completas co
 - **Diseño limpio y modular** con separación de capas
 - **Documentación completa** con AGENTS.md, constitución y especificaciones
 
-**Estado:** Proyecto completo y listo para revisión, con documentación completa y buenas prácticas de desarrollo.
+**Estado:** En desarrollo con documentación completa y buenas prácticas de desarrollo.
 
 ### 🟢 Otros proyectos en exploración
 - Integración de IA con OpenCode y skills personalizadas
