@@ -3,7 +3,7 @@
   <h3>Estudiante DAM | Trainee Multiplataforma | Autodidacta IA & Cloud</h3>
   <p>En búsqueda activa de prácticas FCT (100% Remoto)</p>
 
-  <a href="https://linkedin.com/in/Alvarodev">
+  <a href="https://linkedin.com/in/Alvar0dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alvaroaguilarcejas@gmail.com">
