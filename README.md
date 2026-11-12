@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hola, soy Álvaro Aguilar Cejas</h1>
+  <h1>👋 Hola, soy Álvaro Aguilar</h1>
   <h3>Backend & Multiplatform Developer (Trainee) | Go · Java · Python · AWS</h3>
   <p><b>Arquitectura guiada por ODD · Orquestación de Agentes (MCP & LLM Harnessing) · +15 años de Seniority Operativo</b></p>
   <p>🎯 <i>Disponible para convenio de prácticas FCT / FFE (100% Remoto) con foco en impacto inmediato y continuidad</i></p>
