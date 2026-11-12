@@ -131,5 +131,5 @@ Ecosistema de aplicación orientado a la digitalización del seguimiento deporti
 ¿Buscas un perfil **Trainee / Junior Backend** con mentalidad de producto, dominio de flujos modernos con IA y madurez profesional demostrada para tu equipo en remoto? Hablemos:
 
 - 📧 **Email:** [alvaroaguilarcejas@gmail.com](mailto:alvaroaguilarcejas@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/Alvarodev](https://linkedin.com/in/Alvarodev)
+- 💼 **LinkedIn:** [linkedin.com/in/Alvar0dev](https://linkedin.com/in/Alvar0dev)
 - 🌍 **Modalidad:** 100% Remoto (Base en Madrid, España — Disponibilidad inmediata para convenio FCT/FFE)
